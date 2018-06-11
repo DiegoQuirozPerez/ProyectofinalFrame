@@ -7,7 +7,7 @@
 }
 .img-redes{
   width: 5%;
-  height: 20px;
+  height: 30px;
   float: right;
   margin: 5px;
 }
@@ -30,17 +30,23 @@
   margin: 5px 0;
 }
 .img-banda{
-  float: right;
-  width: 20%;
+  float: center;
+  width: 100%;
   display: inline;
   margin: 5px
 }
 .img-banda2{
-  float: left;
-  width: 20%;
+  float: center;
+  width: 100%;
   display: inline;
   margin: 5px
 }
 .img-comentario{
-  width: 50px;
+  width: 60px;
+}
+h1{
+  color: white;
+}
+p{
+  color: white;
 }
