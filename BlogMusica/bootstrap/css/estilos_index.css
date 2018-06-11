@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+}
+.img-logo{
+  width: 50%;
+  margin: 10px;
+}
+.img-redes{
+  width: 5%;
+  height: 20px;
+  float: right;
+  margin: 5px;
+}
+.contenedor-navegador{
+  background-color: #f4f007;
+  text-align: center
+}
+
+.contenido-izquierdo{
+  background-color: #c60101;
+  margin: 5px;
+  padding: 5px;
+}
+.contenido-derecho{
+  background-color: #c60101;
+  margin: 5px;
+  padding: 5px;
+}
+.navegador{
+  margin: 5px 0;
+}
+.img-banda{
+  float: right;
+  width: 20%;
+  display: inline;
+  margin: 5px
+}
+.img-banda2{
+  float: left;
+  width: 20%;
+  display: inline;
+  margin: 5px
+}
+.img-comentario{
+  width: 50px;
+}
